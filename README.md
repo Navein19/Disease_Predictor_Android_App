@@ -6,17 +6,17 @@
    
 # Screen-Shots
    
-   # 1) User-Interface      #  2) Entering Parameters
+   # 1) User-Interface        #  2) Entering Parameters
    ![](images/1.png)             ![](images/3.png)
 
  
 
   
-  #  3) Predicted Disease & Suggested Foods
-![](images/41.png)
+  #  3) Predicted Disease &  #  4) Clean State 
+  #       Suggested Foods        ![](images/2.png)
+  ![](images/41.png)
   
-  #  4) Clear State
-![](images/2.png)
+ 
   
    # Directly clone the project using android studio and run it on your device !!!!!!!!!!!
    
