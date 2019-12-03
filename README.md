@@ -16,7 +16,7 @@
   ![](images/41.png)
   
   #  4) Clean State 
-  ![](images/41.png)
+  ![](images/2.png)
   
      
   
