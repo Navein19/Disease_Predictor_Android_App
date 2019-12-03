@@ -7,7 +7,7 @@
 # Screen-Shots
    
    # 1) User-Interface
-   ![](images/1.png | width=100)
+   ![](images/1.png)
 
   #  2) Entering Parameters
 ![](images/2.png)
@@ -16,7 +16,7 @@
 ![](images/3.png)
   
   #  4) Clear State
-![](images/4.png)
+![](images/41.png)
   
    
    
