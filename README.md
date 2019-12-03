@@ -6,11 +6,11 @@
    
 # Screen-Shots
    
-   # 1) User-Interface
-   ![](images/1.png)
+   # 1) User-Interface      #  2) Entering Parameters
+   ![](images/1.png)             ![](images/3.png)
 
-  #  2) Entering Parameters
-![](images/3.png)
+ 
+
   
   #  3) Predicted Disease & Suggested Foods
 ![](images/41.png)
