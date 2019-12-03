@@ -10,13 +10,13 @@
    ![](images/1.png | width=100)
 
   #  2) Entering Parameters
-![](images/1.png)
+![](images/2.png)
   
   #  3) Predicted Disease & Suggested Foods
-![](images/1.png)
+![](images/3.png)
   
   #  4) Clear State
-![](images/1.png)
+![](images/4.png)
   
    
    
