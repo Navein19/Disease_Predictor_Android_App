@@ -18,5 +18,7 @@
   #  4) Clear State
 ![](images/2.png)
   
+   # Directly clone the project using android studio and run it on your device !!!!!!!!!!!
    
+       Refer this link for cloning the project directly using Android Studio : https://www.youtube.com/watch?v=k4xfd1iVKMo
    
